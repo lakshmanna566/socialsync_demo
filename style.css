@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background: #f4f4f9;
+}
+h1 {
+    color: #333;
+}
+.social-icons button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #0073e6;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.social-icons button:hover {
+    background-color: #005bb5;
+}
+#status {
+    margin-top: 20px;
+    font-weight: bold;
+    color: green;
+}
